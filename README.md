@@ -28,7 +28,7 @@ channels (mailing list, Gitter, github, etc.) to be welcoming environments for e
 
 [codeofconduct]: http://typelevel.org/conduct.html
 
-## Building shapeless
+## Building kittens
 
 kittens is built with SBT 0.13.8 or later, and its master branch is built with Scala 2.11.7 by default.
 
